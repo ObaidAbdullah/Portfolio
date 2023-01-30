@@ -1,5 +1,5 @@
 import React from "react";
-import MyPdf from "./OBAID_WD.pdf"
+import MyPdf from "./Obaid_RD.pdf"
 
 const About = ({ data }) => {
   if (data) {
@@ -48,7 +48,7 @@ const About = ({ data }) => {
             </div>
             <div className="columns download">
               <p>
-                <a href={MyPdf} download="OBAID_WD.pdf" className="button">
+                <a href={MyPdf} download="Obaid_RD.pdf" className="button">
                   <i className="fa fa-download"></i>Download Resume
                 </a>
               </p>
