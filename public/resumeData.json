@@ -1,0 +1,90 @@
+{
+  "main": {
+    "name": "Obaid Abdullah",
+    "occupation": "Frontend Web Developer",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Obaid! I've been coding for over a year now.I am a Mecahnical Engineering passout student who also happens to be a Frontend Web Developer enthusiast" , 
+    "contactmessage": "Get in touch with me",
+    "email": "obaid193201@gmail.com",
+    "phone": "+91-7006356709",
+    "address": {
+      "city": "Sopore",
+      "state": "Jammu and Kashmir",
+      "zip": "193201"
+    },
+    "social": [
+    
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/iamobaidabdullah",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ObaidAbdullah",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "SSM College of Engineering and Technology",
+        "degree": "Bachelor's Degree, Mechancal Engineering",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Valley Public School",
+        "title": "Teacher",
+        "years": "March 2018 - October 2022 "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Web Development",
+        "level": "50%"
+      },
+      {
+        "name": "npm",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "Socail App",
+        "image": "LinkedIn.jpg",
+        "url": "https://linkedin-clone-b47f0.web.app/"
+      },
+      {
+        "title": "ToDo List App  (React JS)",
+        "category": "Utilities",
+        "image": "ToDo.jpg",
+        "url": "https://todo-app-61178.web.app/"
+      },
+      {
+        "title": "Portfolio  (React JS)",
+        "category": "Personal",
+        "image": "Portfolio.jpg",
+        "url": "#"
+      }
+    ]
+  }
+}
